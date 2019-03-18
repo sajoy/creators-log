@@ -34,17 +34,16 @@ article.post {
     line-height: 1.2rem;
 }
 
-article.post img {
-    height: 300px;
-    display: block;
-    margin: 10px auto;
-    transition: height 2s;
+article.post h2 {
+    margin-top: 50px;
 }
 
-article.post img:hover {
-    height: 500px;
+article.post img {
+    height: 400px;
     display: block;
     margin: 10px auto;
+    margin-bottom: 30px;
+    transition: height 2s;
 }
 
 .back {
