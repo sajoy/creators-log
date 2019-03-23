@@ -1,9 +1,9 @@
 ---
 title: So Many Cats
-date: 2019-03-16 12:24:00
+date: 2019-03-09 12:24:00
 categories: log
 ---
-March 10 - March 16, 2019
+March 3 - March 9, 2019
 
 ## This week I
 1. drew a recap sketch for the previous week
